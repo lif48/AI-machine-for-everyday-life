@@ -11,3 +11,5 @@ Some idea:
 Use AI to creat Youtuble (and Facebook, Tiktok,...) video that enough good.
 
 A website like a combine of Facebook, Google, Reddit, Youtube and Tiktok. Of course, AI join it.
+
+Sorry because of my poor English.
