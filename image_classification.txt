@@ -1,2 +1,8 @@
+Need mega, googledrive, laptop.
+how to tranfer data from mega batch by batch to googledrive.
+then use google colab to classificate image and make it to googledrive.
+then from googledrive move again to mega.
+that is so confusing.
+=> make googledrive 15gb within mega 60gb : v. haha.
 Step 1: Class classification;
 Step 2: Binary classification;
