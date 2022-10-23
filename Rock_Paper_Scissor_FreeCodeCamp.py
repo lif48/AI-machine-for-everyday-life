@@ -13,10 +13,10 @@ my_play_order = {}
 
 def player(prev_play):
     if prev_play in ["R", "P", "S"]:
-        opponent_history.append(prev_play)
+        opponent_history.append(prev_play) #ok
         for i in range(0, 4):
             if opponent_guess[i] == prev_play:
-                strategy[i] += 1
+                strategy[i] += 1 #opponent_guess co bang real opponent k, neu bang thi strategy ++
     else:
         reset()
 
